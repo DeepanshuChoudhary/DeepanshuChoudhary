@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepanshuChoudhary
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and Full Stack web Dev
+- 🌱 I’m currently learning C++/JAVA and MERN Stack web Dev
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me Email - deepengineeryt@gmail.com
